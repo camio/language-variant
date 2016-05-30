@@ -1,6 +1,6 @@
 # Pattern Matching and Language Variants
 
-- Document number: D0095R1
+- Document number: D0095R2
 - Date: 2016-05-29
 - Reply-to: David Sankel &lt;david@stellarscience.com&gt;
 - Audience: Evolution
